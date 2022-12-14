@@ -46,12 +46,10 @@ Feel free to contribute improvements, as well as support for non-apt based syste
 
 ## Installation
 
-Run `pip3 install pkg-exporter`.
-
-Clone the repository and run `poetry install` from the main directory.
+Clone the repository and run `python setup.py install` from the main directory.
 You can also use other standard installation methods for python packages, like directly installing from this git repository.
 
-The pyinstaller-based binary is not provided any more.
+Alternatively, a single binary built using pyinstaller is provided.
 
 ### apt-based systems
 
